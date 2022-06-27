@@ -15,38 +15,38 @@ DOI: 10.1001/jama.2019.5791 <br />
 PMID: 31104070; PMCID: PMC6537818 <br />
 
 # NOTES #
-#1.) Code assumes units are as follows:
-#Age: years
-#Albumin: g/dL
-#ALT: U/L
-#AST: U/L
-#BANDS: %
-#Bicarbonate: mEq/L
-#Bilirubin: mg/dL
-#BUN: mg/dL
-#Chloride: mEq/L
-#Creatinine: mg/dL
-#C-Reactive Protein: mg/L
-#Elixhauser: 0-31 point scale
-#ESR: mm/hour
-#GCS: 3-15 point scale
-#Glucose: mg/dL
-#Hemoglobin: g/dL
-#Heart Rate: Beats/min
-#INR: ratio
-#Lactate (Serum)e: mmol/L
-#PaO2: mmHg
-#Platelets: x10^9/L
-#Respiratory Rate: breaths/minute
-#SaO2 - Oxygen Saturation: %
-#Sex: 1=male; 0=female
-#Sodium: mEq/L
-#Systolic Blood Pressure: mmHg
-#Temperature: Celcius
-#Troponin: ng/mL
-#White Blood Cell count: x10^9/L
+1.) Code assumes units are as follows: <br />
+Age: years <br />
+Albumin: g/dL <br />
+ALT: U/L <br />
+AST: U/L <br />
+BANDS: % <br />
+Bicarbonate: mEq/L <br />
+Bilirubin: mg/dL <br />
+BUN: mg/dL <br />
+Chloride: mEq/L <br />
+Creatinine: mg/dL <br />
+C-Reactive Protein: mg/L <br />
+Elixhauser: 0-31 point scale <br />
+ESR: mm/hour <br />
+GCS: 3-15 point scale <br />
+Glucose: mg/dL <br />
+Hemoglobin: g/dL <br />
+Heart Rate: Beats/min <br />
+INR: ratio <br />
+Lactate (Serum)e: mmol/L <br />
+PaO2: mmHg <br />
+Platelets: x10^9/L <br />
+Respiratory Rate: breaths/minute <br />
+SaO2 - Oxygen Saturation: % <br />
+Sex: 1=male; 0=female <br />
+Sodium: mEq/L <br />
+Systolic Blood Pressure: mmHg <br />
+Temperature: Celcius <br />
+Troponin: ng/mL <br />
+White Blood Cell count: x10^9/L <br />
 
-#Convert units to above prior to phenotype assignment as needed
+Convert units to above prior to phenotype assignment as needed
 
 #2.) Expected input has subject identifier in 1st column and model features in remaining columns
 
