@@ -15,7 +15,8 @@ DOI: 10.1001/jama.2019.5791 <br />
 PMID: 31104070; PMCID: PMC6537818 <br />
 
 # NOTES #
-1.) Code assumes units are as follows: <br />
+1.) SENECA - Mock Dataset.csv is synthetic data to allow testing phenotype assignment code. <br />
+2.) Phenotype assignment code assumes units are as follows: <br />
 Age: years <br />
 Albumin: g/dL <br />
 ALT: U/L <br />
@@ -46,9 +47,9 @@ Temperature: Celcius <br />
 Troponin: ng/mL <br />
 White Blood Cell count: x10^9/L <br />
 
-Convert units to above prior to phenotype assignment as needed
+Convert units to above prior to phenotype assignment as needed <br />
 
-2.) Expected input has subject identifier in 1st column and model features in remaining columns <br />
+3.) Expected input has subject identifier in 1st column and model features in remaining columns <br />
 
 Required Libraries: <br />
 missRanger <br />
