@@ -48,7 +48,7 @@ White Blood Cell count: x10^9/L <br />
 
 Convert units to above prior to phenotype assignment as needed
 
-#2.) Expected input has subject identifier in 1st column and model features in remaining columns
+2.) Expected input has subject identifier in 1st column and model features in remaining columns <br />
 
-#Required Libraries:
-#missRanger
+Required Libraries: <br />
+missRanger <br />
