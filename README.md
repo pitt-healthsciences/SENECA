@@ -1,18 +1,18 @@
 # SENECA - Assigning Clinical Sepsis Phenotypes
 
 Jason Kennedy <br />
-jnk28@pitt.edu
+jnk28@pitt.edu <br />
 Uploaded June 27, 2022
 
-#Assign Clinical Sepsis Phenotypes (Alpha, Beta, Gamma, Delta) by Euclidean Distance
-#Using SENECA Derivation Centroids
-#Code presented in R
+Assign Clinical Sepsis Phenotypes (Alpha, Beta, Gamma, Delta) by Euclidean Distance <br />
+Using SENECA Derivation Centroids <br />
+Code presented in R <br />
 
-#From "Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis"
-#Seymour CW, Kennedy JN, Wang S, et al.
-#JAMA. 2019 May 28;321(20):2003-2017
-#DOI: 10.1001/jama.2019.5791
-#PMID: 31104070; PMCID: PMC6537818
+From "Derivation, Validation, and Potential Treatment Implications of Novel Clinical Phenotypes for Sepsis" <br />
+Seymour CW, Kennedy JN, Wang S, et al. <br />
+JAMA. 2019 May 28;321(20):2003-2017 <br />
+DOI: 10.1001/jama.2019.5791 <br />
+PMID: 31104070; PMCID: PMC6537818 <br />
 
 # NOTES #
 #1.) Code assumes units are as follows:
