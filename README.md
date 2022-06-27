@@ -1,6 +1,6 @@
 # SENECA - Assigning Clinical Sepsis Phenotypes
 
-Jason Kennedy \n
+Jason Kennedy <br />
 jnk28@pitt.edu
 Uploaded June 27, 2022
 
