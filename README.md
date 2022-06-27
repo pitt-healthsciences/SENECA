@@ -1,9 +1,7 @@
 # SENECA - Assigning Clinical Sepsis Phenotypes
 
 Jason Kennedy
-
 jnk28@pitt.edu
-
 Uploaded June 27, 2022
 
 #Assign Clinical Sepsis Phenotypes (Alpha, Beta, Gamma, Delta) by Euclidean Distance
